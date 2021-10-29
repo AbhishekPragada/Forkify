@@ -7,7 +7,7 @@
 100C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\icss-utils\node_modules\picocolors\LICENSE121436361000000000 0
 66C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\lowlight132796444109883476 1
 107C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\jsdom\lib\jsdom\living\events\CustomEvent-impl.js121436361000000000 0
-49C:\Users\Abhishek Pragada\Desktop\js\Forkify\dist132799024071326837 1
+49C:\Users\Abhishek Pragada\Desktop\js\Forkify\dist132799033480299924 1
 88C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\es-abstract\2020\RegExpExec.js121436361000000000 0
 105C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@parcel\transformer-sass\lib\SassTransformer.js121436361000000000 0
 81C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\lodash\fp\upperFirst.js121436361000000000 0
@@ -187,7 +187,7 @@
 91C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\source-map-js\lib\mapping-list.js121436361000000000 0
 104C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\lmdb-store\prebuilds\win32-x64\node.abi93.node121436361000000000 0
 62C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@swc132796444017172124 1
-72C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\views\resultsView.js132799021061609636 0
+72C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\views\resultsView.js132799027986515503 0
 94C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\svgo\plugins\removeOffCanvasPaths.js121436361000000000 0
 72C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\browserify-des132796444098134925 1
 83C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\lodash\_defineProperty.js121436361000000000 0
@@ -343,7 +343,7 @@
 66C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\sass\_upload.scss132742071725577845 0
 83C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\is-callable\.editorconfig121436361000000000 0
 98C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\string.prototype.trimstart\.editorconfig121436361000000000 0
-65C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\controller.js132797514815040487 0
+65C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\controller.js132799034709286774 0
 74C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\.bin\esparse.ps1132796444128364063 0
 83C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\uri-js\dist\esnext\uri.js121436361000000000 0
 105C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\jsdom\lib\jsdom\living\generated\NavigatorID.js121436361000000000 0
@@ -359,11 +359,11 @@
 80C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\http-proxy\codecov.yml121436361000000000 0
 67C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\pn\net.js131594838820000000 0
 76C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\console-browserify132796444121064094 1
-61C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\helper.js132799024027174960 0
+61C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\helper.js132799025129183405 0
 81C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\micromatch\package.json132796444088710122 0
 112C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\uncss\node_modules\postcss-selector-parser\LICENSE-MIT121436361000000000 0
 137C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
-60C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\model.js132797522302304015 0
+60C:\Users\Abhishek Pragada\Desktop\js\Forkify\src\js\model.js132799033472612920 0
 141C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\postcss-modules\node_modules\postcss-modules-extract-imports\src\topologicalSort.js121436361000000000 0
 92C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\caniuse-lite\data\features\flac.js121436361000000000 0
 102C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\cssstyle\lib\properties\borderBottomStyle.js121436361000000000 0
@@ -12019,7 +12019,7 @@
 97C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\caniuse-lite\data\features\svg-html5.js121436361000000000 0
 89C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\caniuse-lite\data\regions\BS.js121436361000000000 0
 88C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\csso\lib\clean\TypeSelector.js121436361000000000 0
-67C:\Users\Abhishek Pragada\Desktop\js\Forkify\dist\index.05cf099e.js132799024070967789 0
+67C:\Users\Abhishek Pragada\Desktop\js\Forkify\dist\index.05cf099e.js132799033480112835 0
 81C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\csso\lib\clean\utils.js121436361000000000 0
 108C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@parcel\runtime-js\lib\helpers\node\wasm-loader.js121436361000000000 0
 86C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\csso\lib\clean\WhiteSpace.js121436361000000000 0
@@ -15421,7 +15421,7 @@
 69C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@babel\core132796444089966752 1
 74C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@babel\generator132796444090445471 1
 91C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@babel\helper-compilation-targets132796444102364089 1
-71C:\Users\Abhishek Pragada\Desktop\js\Forkify\dist\index.05cf099e.js.map132799024071087465 0
+71C:\Users\Abhishek Pragada\Desktop\js\Forkify\dist\index.05cf099e.js.map132799033480263034 0
 90C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@babel\helper-get-function-arity132796444090485369 1
 87C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@babel\helper-hoist-variables132796444090246001 1
 86C:\Users\Abhishek Pragada\Desktop\js\Forkify\node_modules\@babel\helper-module-imports132796444090196133 1

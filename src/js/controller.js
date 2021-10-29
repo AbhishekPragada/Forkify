@@ -21,7 +21,7 @@ import { async } from 'regenerator-runtime';
 
 const controlRecipes = async function(){
   try{
-    const id = window.location.href.slice(22);
+    const id = window.location.hash.slice(1);
     if(!id) return;
     
     recipeView.renderSpinner();
@@ -47,13 +47,12 @@ const controlSearchResults = async function(){
     resultsView.render(model.getSearchResultsPage());
 
     // 4) Render Inital Pagination View
-    paginationView.render(model.state.search);
+    paginationView.render(model.getSearchResultsPage());
   }
   catch(err){
     console.log(err);
   }
 }
-
 
 const init = function(){
   searchView.addHandlerSearch(controlSearchResults);

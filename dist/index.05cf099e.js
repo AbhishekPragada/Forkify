@@ -480,7 +480,7 @@ var _regeneratorRuntime = require("regenerator-runtime");
 ///////////////////////////////////////
 const controlRecipes = async function() {
     try {
-        const id = window.location.href.slice(22);
+        const id = window.location.hash.slice(1);
         if (!id) return;
         _recipeViewJsDefault.default.renderSpinner();
         // 1. Loading Recipe
@@ -502,7 +502,7 @@ const controlSearchResults = async function() {
         // 3) Render Search Results
         _resultsViewJsDefault.default.render(_modelJs.getSearchResultsPage());
         // 4) Render Inital Pagination View
-        _paginationViewJsDefault.default.render(_modelJs.state.search);
+        _paginationViewJsDefault.default.render(_modelJs.getSearchResultsPage());
     } catch (err) {
         console.log(err);
     }
